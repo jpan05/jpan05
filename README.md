@@ -21,6 +21,13 @@ PyTorch machine learning model predicting drug-protein binding affinity using mo
 ### [SESSION - Golf Range Tracker](https://github.com/jpan05/golf-splicer)
 Full-stack React web application with computer vision integration for tracking golf practice sessions. Features user authentication, session analytics, and automated swing detection to process large range videos.
 
+### [Watch Engine - Golf Range Tracker](https://github.com/abrarnafiu/Watch-Engine)
+Co-developed a full-stack search engine for luxury watches using OpenAI GPT embeddings with Supabase vector search.
+
+### [Nurture Nest - Maternal Health Monitoring App]
+Collaborated with a student team to develop a React Native mobile app supporting maternal healthcare for clinicians in Ghana.
+
+
 ---
 
 ## 🌐 Connect with me
