@@ -19,6 +19,7 @@ PyTorch deep learning model predicting drug-protein binding affinity using molec
 
 ### [SESSION - Golf Range Tracker](https://github.com/jpan05/golf-splicer)
 Full-stack React web application with computer vision integration for tracking golf practice sessions. Features user authentication, progress analytics, and automated swing detection from video footage.
+
 ---
 
 ## 🌐 Connect with me
