@@ -16,10 +16,10 @@
 
 ## 🚀 Featured Projects
 ### [Drug-Protein Binding Neural Network](https://github.com/jpan05/DrugBindingNNV2)
-PyTorch deep learning model predicting drug-protein binding affinity using molecular fingerprints and protein sequence features. Processes 1.4GB BindingDB dataset with custom feature engineering pipeline.
+PyTorch machine learning model predicting drug-protein binding affinity using molecular fingerprints and protein sequence features. Processes 500,000 samples from BindingDB dataset with molecule feature engineering pipeline.
 
 ### [SESSION - Golf Range Tracker](https://github.com/jpan05/golf-splicer)
-Full-stack React web application with computer vision integration for tracking golf practice sessions. Features user authentication, progress analytics, and automated swing detection from video footage.
+Full-stack React web application with computer vision integration for tracking golf practice sessions. Features user authentication, session analytics, and automated swing detection to process large range videos.
 
 ---
 
