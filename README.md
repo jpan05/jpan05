@@ -9,19 +9,16 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=black&style=flat)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
 
 ---
 
-## Notable Projects
-- Drug-Protein Binding Affinity Neural Network: Built a deep learning model in PyTorch to predict drug–protein binding affinity from IC50 values.
-- SESSION: Built a full-stack web application that tracks a users golf range sessions, and processes golf range footage by detecting golf swings.
+## 🚀 Featured Projects
+### [Drug-Protein Binding Neural Network](https://github.com/jpan05/DrugBindingNNV2)
+PyTorch deep learning model predicting drug-protein binding affinity using molecular fingerprints and protein sequence features. Processes 1.4GB BindingDB dataset with custom feature engineering pipeline.
 
----
-
-## 📊 GitHub Stats
-![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
-
+### [SESSION - Golf Range Tracker](https://github.com/jpan05/golf-splicer)
+Full-stack React web application with computer vision integration for tracking golf practice sessions. Features user authentication, progress analytics, and automated swing detection from video footage.
 ---
 
 ## 🌐 Connect with me
