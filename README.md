@@ -1,7 +1,6 @@
 # Hi! 👋 I'm Jeffrey Pan
 🎓 Computer Science Student at Northeastern University 
-💻 Passionate about AI/ML applications in healthcare and bioinformatics  
-🏌️‍♂️ Building tools that bridge technology and real-world problems
+💻 Passionate about designing and developing thoughtful and functional user interfaces. 
 
 ---
 
